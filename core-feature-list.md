@@ -138,9 +138,3 @@
 
 ---
 
-## 🚀 Next Steps (Optional)
-- [ ] Create wireframes or low-fidelity UI mockups  
-- [ ] Design database schema (Users, Listings, Chats, Ratings, etc.)  
-- [ ] Define user flow diagrams  
-- [ ] Draft Product Requirements Document (PRD)
-
